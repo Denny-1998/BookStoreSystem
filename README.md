@@ -92,6 +92,9 @@ OrderItems
 - UnitPrice
 ```
 
+![DB_Diagram_BookStore](https://github.com/user-attachments/assets/c2aeebe4-0ff0-4061-8801-eaa43bd3fff5)
+
+
 ## Key Features
 - Automatic caching of book details in Redis
 - Recent orders stored in Redis for quick access
